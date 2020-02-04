@@ -1,0 +1,7 @@
+@fontface-{
+	font-family: "myFont";
+	src: url("futura-medium-bt.woff")
+}
+html{
+	font-family: "myFont";
+}
